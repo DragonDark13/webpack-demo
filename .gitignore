@@ -1,3 +1,9 @@
 # Project exclude paths
 /dist/
 /node_modules/
+/.idea/.gitignore
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/package-lock.json
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/webpack-demo.iml
